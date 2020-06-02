@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlatformSpawnner : MonoBehaviour
+public class PlatformSpawner : MonoBehaviour
 {
     public GameObject[] platformPrefab;
     public GameObject spikePlatformPrefab;
